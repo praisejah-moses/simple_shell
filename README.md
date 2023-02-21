@@ -44,4 +44,4 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [Mike Arifajogun]([https://github.com/]) and [PraiseJah Ossai](https://github.com/praiseJah.moses).
+All code written by [Mike Arifajogun]([https://github.com/FestusMike]) and [PraiseJah Ossai](https://github.com/praiseJah-moses).
